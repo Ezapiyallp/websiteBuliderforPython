@@ -1,1 +1,4 @@
 pyinstaller --hidden-import=PyQt5.QtPrintSupport --onefile --windowed    main.py
+
+
+hi Priti
